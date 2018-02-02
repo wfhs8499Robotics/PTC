@@ -1,0 +1,19 @@
+﻿  MODEL WHEEL-BASE :
+ 
+
+  1 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 3
+
+Feature number 9 (COMPONENT, id = 69) 
+  in model SEVRO_BLOCK refers to:
+
+Feature number 7 (COMPONENT, id = 47) 
+  in model 535118_ASSEMBLY_1_2 refers to:
+
+Feature number 9 (COMPONENT, id = 69) 
+  in model SEVRO_BLOCK - circle closed.
+

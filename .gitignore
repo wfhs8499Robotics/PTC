@@ -47,3 +47,4 @@ Temporary Items
 .apdisk
 *.out
 PTC Parts/Custom Parts/std.out
+*.crc
